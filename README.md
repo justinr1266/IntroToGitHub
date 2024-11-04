@@ -1,2 +1,2 @@
-"# IntroToGitHub" 
-"Trying SSH Key"
+# IntroToGitHub
+Trying SSH Key
